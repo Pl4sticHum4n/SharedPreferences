@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="title_text">este es el texto del titulo</string>
+    <integer name="keyforinteger">12</integer>
+    <string name="cadena2">esta es la cadena numero 2</string>
+    <string name="cadena3">esta es la cadena numero 3</string>
+</resources>
